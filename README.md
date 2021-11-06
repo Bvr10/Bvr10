@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Bvr
+- 👀 I’m interested in js/css/html/py/ts/php
+- 🌱 I’m currently learning php
+- 💞️ I’m looking to collaborate on Discord
