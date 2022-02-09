@@ -63,4 +63,4 @@
 <br>
 <a href="https://twitter.com/bvrondiscord" target="blank"><img src="https://img.shields.io/twitter/follow/bvrondiscord?logo=twitter&style=for-the-badge" alt="bvrondiscord"/></a>
 <br>
-<a href="#"><img src="https://discord.c99.nl/widget/theme-4/444100600183914498.png " alt="discord"/></a>
+<a href="#"><img src="https://discord.c99.nl/widget/theme-4/444100600183914498.png" alt="discord"/></a>
