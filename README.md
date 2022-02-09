@@ -1,6 +1,5 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Bvr</h1>
 <h3 align="center">Passionate french developer!</h3>
-<h4 align="center"><a href="https://www.fiverr.com/gonzyui">Fiverr</a></h4>
 
 ## 🙋‍♂️ About Me
 
@@ -44,9 +43,9 @@
 </p>
 <br/>
 <a href="#">
-  <img alt="Bvr's stats" src="https://github-readme-stats.vercel.app/api?username=bvr10&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117"/></a>
+  <img alt="Gonz's stats" src="https://github-readme-stats.vercel.app/api?username=gonzyui&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117"/></a>
   <a href="#">
-    <img alt="Bvr's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bvr10&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117"/></a>
+    <img alt="Subham Raoniar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gonzyui&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117"/></a>
 <br/>
 <b>Note:</b> Used languages on GitHub is not languagues most used when i'm coding.
 
@@ -64,4 +63,4 @@
 <br>
 <a href="https://twitter.com/bvrondiscord" target="blank"><img src="https://img.shields.io/twitter/follow/bvrondiscord?logo=twitter&style=for-the-badge" alt="bvrondiscord"/></a>
 <br>
-<a href="#"><img src="https://discord.c99.nl/widget/theme-2/444100600183914498.png" alt="discord"/></a>
+<a href="#"><img src="https://discord.c99.nl/widget/theme-4/444100600183914498.png " alt="discord"/></a>
