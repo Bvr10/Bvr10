@@ -36,28 +36,28 @@
   
 <p align="center">
  <a href="#">
-   <img alt="Bvr's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=bvrdev&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+   <img alt="Bvr's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=bvr10&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
  </a>
 </p>
 <br/>
 <a href="#">
-  <img alt="Bvr's stats" src="https://github-readme-stats.vercel.app/api?username=bvrdev&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117"/></a>
+  <img alt="Bvr's stats" src="https://github-readme-stats.vercel.app/api?username=bvr10&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117"/></a>
   <a href="#">
-    <img alt="Subham Raoniar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bvrdev&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117"/></a>
+    <img alt="Bvr's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bvr10&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117"/></a>
 <br/>
 <b>Note:</b> Used languages on GitHub is not languagues most used when i'm coding.
 
 <br/>
 <br/>
 <a href="#">
-  <img alt="Bvr's activity" src="https://activity-graph.herokuapp.com/graph?username=bvrdev&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true"/></a>
+  <img alt="Bvr's activity" src="https://activity-graph.herokuapp.com/graph?username=bvr10&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true"/></a>
 <br/>
 <br/>
 
 ## ❤ Other
-<a href="#"><img src="https://img.shields.io/github/followers/bvrdev?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="#"><img src="https://img.shields.io/github/followers/bvr10?label=Followers&style=social" alt="GitHub Badge"></a>
 <br>
-<a href="#"><img src="https://komarev.com/ghpvc/?username=bvrdev&label=Profile%20views&color=0e75b6&style=flat"></a>
+<a href="#"><img src="https://komarev.com/ghpvc/?username=bvr10&label=Profile%20views&color=0e75b6&style=flat"></a>
 <br>
 <a href="https://twitter.com/BvrDev" target="blank"><img src="https://img.shields.io/twitter/follow/BvrDev?logo=twitter&style=for-the-badge" alt="BvrDev"/></a>
 <br>
