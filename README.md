@@ -43,7 +43,7 @@
 <a href="#">
   <img alt="Bvr's stats" src="https://github-readme-stats.vercel.app/api?username=bvr10&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117"/></a>
   <a href="#">
-    <img alt="Subham Raoniar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bvr10&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117"/></a>
+    <img alt="Bvr's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bvr10&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117"/></a>
 <br/>
 <b>Note:</b> Used languages on GitHub is not languagues most used when i'm coding.
 
